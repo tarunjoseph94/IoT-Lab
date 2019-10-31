@@ -1,5 +1,5 @@
-/*Install the libraries bfore starting 
- * ||tools->Manage libraries
+/*Install the libraries before starting 
+  ||Tools->Manage libraries
                      |->Adafruit unifed Sensor
                      |->DHT Sensor Library */ 
 
